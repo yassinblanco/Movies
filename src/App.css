@@ -1,0 +1,31 @@
+.navbar-nav {
+  align-items: center;
+}
+
+main {
+  border: 0px solid red;
+  margin-top: 10rem;
+  min-height: 100vh;
+}
+
+.list-group-item.active {
+  background-color: red !important;
+  border-color: red !important;
+}
+
+.nav-pagination {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  padding: 20px;
+}
+
+footer p {
+  margin-bottom: 0;
+}
+
+.contact-container {
+  margin-top: 5rem;
+}

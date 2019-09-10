@@ -1,0 +1,7 @@
+export const ADD_FILTERS = "ADD_FILTERS";
+export const FILTERS_LOADING = "FILTERS_LOADING";
+export const FILTERS_FAILED = "FILTERS_FAILED";
+
+export const ADD_MOVIES = "ADD_MOVIES";
+export const MOVIES_FAILED = "MOVIES_FAILED";
+export const MOVIES_LOADING = "MOVIES_LOADING";
